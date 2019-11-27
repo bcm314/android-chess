@@ -15,7 +15,7 @@ import android.util.Log;
 import android.view.View;
 
 public class CapturedImageView extends View {
-
+//sssssssss
     private Bitmap _bitMap;
     private boolean _bHighlighted;
 
