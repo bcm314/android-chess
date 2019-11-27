@@ -19,9 +19,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
-    lintOptions {
-        disable 'MissingTranslation'
-    }
+
     flavorDimensions "deps"
     productFlavors {
         playStore {
